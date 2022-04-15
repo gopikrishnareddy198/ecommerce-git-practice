@@ -10,6 +10,7 @@ public class UserService {
         try {
             Class.forName("ojdbc");
             new Object();
+            new String();
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
