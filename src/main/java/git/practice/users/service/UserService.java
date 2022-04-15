@@ -19,6 +19,6 @@ public class UserService {
     }
 
     public void  newMethod(){
-        System.out.println();
+        System.out.println("Hello");
     }
 }
