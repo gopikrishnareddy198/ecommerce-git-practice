@@ -2,6 +2,8 @@ package git.practice.users.service;
 
 import git.practice.users.model.User;
 
+import java.util.AbstractList;
+
 public class UserService {
 
 
@@ -11,6 +13,7 @@ public class UserService {
             Class.forName("ojdbc");
             new Object();
             new String();
+            new Thread();
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
