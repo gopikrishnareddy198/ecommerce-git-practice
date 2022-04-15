@@ -20,5 +20,7 @@ public class UserService {
 
     public void  newMethod(){
         System.out.println("Hello World");
+
+        System.out.println();
     }
 }
