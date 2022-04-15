@@ -9,6 +9,7 @@ public class UserService {
         System.out.println("Created by TL2 ");
         try {
             Class.forName("ojdbc");
+            new String();
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
