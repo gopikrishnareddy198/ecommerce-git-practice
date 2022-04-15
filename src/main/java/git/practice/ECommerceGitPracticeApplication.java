@@ -9,5 +9,4 @@ public class ECommerceGitPracticeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ECommerceGitPracticeApplication.class, args);
 	}
-
 }
