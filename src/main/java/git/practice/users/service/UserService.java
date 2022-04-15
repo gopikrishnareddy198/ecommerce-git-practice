@@ -8,7 +8,7 @@ public class UserService {
     public void validatedetailsAndCreateUser(User user) {
         System.out.println("Created by TL2 ");
         try {
-            Class.forName("jdbc");
+            Class.forName("ojdbc");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
