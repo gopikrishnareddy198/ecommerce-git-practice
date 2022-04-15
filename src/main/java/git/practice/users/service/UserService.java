@@ -6,7 +6,6 @@ public class UserService {
 
 
     public void validatedetailsAndCreateUser(User user) {
-        System.out.println("Created by TeamMember1 ");
-
+        System.out.println("Created by TeamMember1 New");
     }
 }
