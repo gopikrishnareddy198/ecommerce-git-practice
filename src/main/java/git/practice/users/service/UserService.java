@@ -30,5 +30,7 @@ public class UserService {
 
     }
 
+     public void calcculateIntrest(){
 
+     }
 }
