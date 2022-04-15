@@ -17,4 +17,8 @@ public class UserService {
 
 
     }
+
+    public void  newMethod(){
+
+    }
 }
